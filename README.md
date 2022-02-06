@@ -1,5 +1,7 @@
 # logger
 
+![Preview](preview.gif)
+
 - usage
 
 ```ts
